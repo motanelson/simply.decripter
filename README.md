@@ -1,2 +1,1 @@
-# mingw.text.editor
-gui mingw text editor
+build code c functions as fixed formulas gcc -c 
