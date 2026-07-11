@@ -1,1 +1,1 @@
-build code c functions as fixed formulas gcc -c 
+a simply decriptor , sample cript id "hello" pass
